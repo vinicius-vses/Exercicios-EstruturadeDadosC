@@ -1,0 +1,29 @@
+				Gerenciamento de Fila de Atendimento ao Público.
+
+/*Projeto desenvolvido no Dev-C++*/
+
+Após abrir o programa, compilar e executar o código, surgirá o menu principal no qual deve ser feita uma escolha.
+
+Para escolher basta pressionar algum mostrado na tela.
+
+Os números vão de '1' até '8' e cada um deles ativará uma função descrita no menu principal.
+
+O primeiro comando deve ser o 1 para definir a quantidade de atendentes da Fila.
+
+Depois disso, o '2' irá levá-lo para outra tela e nela será possível escolher entre atendimento normal ou prioritário.
+
+Em sequência, será levado de volta ao menu principal.
+
+Neste momento, o usuário pode escolher ver a Fila em ordem de chegada ou saber o tamanho da Fila na qual encontra-se,
+respectivamente, com os números '4' e '6'. Tais escolhas são opcionais.
+
+Para saber a ordem do atendimento, o usuário deve pressionar '5'.
+
+Para apagar todos os dados inseridos e recomeçar a Fila é preciso pressionar '7'.
+
+Quando desejar fechar o Sistema pressione '8'.
+
+
+
+
+							
